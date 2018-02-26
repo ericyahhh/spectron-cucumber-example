@@ -1,0 +1,30 @@
+{
+  "name": "spectron-cucumber-example",
+  "version": "1.0.0",
+  "description": "Electron selenium testing using Spectron and Cucumber.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "cucumber-js"
+  },
+  "repository": "https://github.com/ericyahhh/spectron-cucumber-example",
+  "keywords": [
+    "Electron",
+    "Spectron",
+    "Cucumber",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Eric Labod",
+  "license": "The Unlicense",
+  "bugs": {
+    "url": "https://github.com/ericyahhh/spectron-cucumber-example/issues"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "cucumber": "^4.0.0",
+    "electron": "~1.8.2",
+    "spectron": "^3.8.0"
+  }
+}
