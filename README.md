@@ -13,7 +13,7 @@ npm install
 
 ## Running tests
 ```
-npm install
+npm test
 ```
 
 ## Documentation
