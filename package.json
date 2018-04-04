@@ -24,7 +24,7 @@
   "devDependencies": {
     "chai": "^4.1.2",
     "cucumber": "^4.0.0",
-    "electron": "~1.8.2",
+    "electron": "^1.8.2",
     "spectron": "^3.8.0"
   }
 }
